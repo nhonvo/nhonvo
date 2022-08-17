@@ -23,23 +23,23 @@ I am student IT major
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/nhơn-võ-thương-trường-724631235/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="" target="blank"><img align="center"
+         alt="truongnhon" height="30"/></a>
+      <a href="https://www.facebook.com/truongnhondata/" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="" target="blank"><img align="center"
+         alt="truongnhon" height="30"/></a>
+      <a href="" target="blank" alt = "vothuongtruongnhon2002@gmail.com"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="truongnhon" height="30"/></a>
     </p>
   <p align="center">
       <a href="" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="truongnhon" height="30"/></a>
       <a href="" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="truongnhon" height="30"/></a>
       <br>
     </p>
   </samp>
@@ -52,7 +52,6 @@ I am student IT major
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
-
  </p>
 </div>
 </details>
@@ -89,11 +88,11 @@ I am student IT major
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=truongnhon-hutech&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="truongnhon's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=truongnhon-hutech&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
 
 ------
 
 Credit: [truongnhon-hutech](https://github.com/truongnhon-hutech)
-Last Edited on: 01/06/2022
+Last Edited on: 17/08/2022
