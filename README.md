@@ -62,8 +62,9 @@ I am student IT major
 <div>
 <h2 align="center"> Wanna learn more something about me? </h2>
 </div>
-</details>
 <a href ="https://drive.google.com/file/d/1Eop9CeP0BtbTLIWsHLY3gi7qfxAvA0Qf/view?usp=sharing">Check my resume!!!</a>
+</details>
+
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
