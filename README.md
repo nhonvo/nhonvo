@@ -72,12 +72,12 @@ I am student IT major
       <br/>
         <p align="center">
           <a href="https://github.com/truongnhon-hutech/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongnhon-hutech&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="truongnhon-hutech :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhonvo&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="nhonvo :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/truongnhon-hutech/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=truongnhon-hutech&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=truongnhon-hutech&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/nhonvo/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nhonvo&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nhonvo&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
@@ -89,11 +89,11 @@ I am student IT major
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="truongnhon's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=truongnhon-hutech&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="truongnhon's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=nhonvo&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
 
 ------
 
-Credit: [truongnhon-hutech](https://github.com/truongnhon-hutech)
-Last Edited on: 10/09/2022
+Credit: [nhonvo](https://github.com/nhonvo)
+Last Edited on: 19/03/2023
