@@ -1,99 +1,100 @@
-Hello
-My name is Nhon 
-I am student IT major
+<h1 class="animated-header" align="left"><b>Hi there, I'm Nhon Vo 🚀</b></h1>
 
+<p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
-<div align="center">
-<h1 align="center">Hi 👋 , I'm Nhon</h1>
-<h4 align="center">An engineering students at HCM University Of Technology (HUTECH)
-<img src="./Content/images.png" height = "20"  >
-</h4>
+## About me 🏈
+
+<h5 align="center">
+  <a href="https://twitter.com/nhonvoQN">
+    <img src="https://img.shields.io/badge/-nhonvoQN-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/truongnhon/">
+    <img src="https://img.shields.io/badge/-truongnhon-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/NhonVTT">
+    <img src="https://img.shields.io/badge/-NhonVTT-3B5998?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <br>
+  <a href="mailto:vothuongtruongnhon2002@gmail.com">
+    <img src="https://img.shields.io/badge/vothuongtruongnhon2002%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+</h5>
+
+<br>
+
+<a href="https://github.com/truongnhon-hutech/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhonvo&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="nhonvo :: Top Langs" />
+</a>
+
+<br>
+
+🌱 My name is Truong Nhon, I come from Vietnam.
+
+🎂 31/10/2002
+
+👉 I'm a backend developer, and I prefer C#.
+
+<br>
+<br>
+
+## 🛠 Languages and Tools
+<div style="display: flex; justify-content: center;">
+  <img class="animated-icon" src="https://img.icons8.com/color/452/c-sharp-logo.png" width="50"/>
+  <img class="animated-icon" src="https://img.icons8.com/color/452/python.png" width="50"/>
+  <img class="animated-icon" src="https://img.icons8.com/color/452/javascript.png" width="50"/>
+  <img class="animated-icon" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" width="50"/>
+  <img class="animated-icon" src="https://img.icons8.com/color/452/android-os.png" width="50"/>
 </div>
 
+<style>
+  /* Add animation to the icons */
+  .animated-icon {
+    animation: zoomIn 0.5s ease-in-out;
+  }
 
+  /* Define the animation */
+  @keyframes zoomIn {
+    0% {
+      transform: scale(0);
+      opacity: 0;
+    }
+    100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+</style>
 
-<div align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
+## 🔖&nbsp; Checkout my <a href="https://nhonvo.github.io/portfolio/assets/pdf/Võ%20Thương%20Trường%20Nhơn.pdf">Resume</a>.
 
-<details>
-  <summary>☎️ contact me</summary>
+<br>
+
 <div>
-  <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/nhơn-võ-thương-trường-724631235/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="truongnhon" height="30"/></a>
-      <a href="https://www.facebook.com/truongnhon-hutech/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="truongnhon" height="30"/></a>
-      <a href="#" target="blank" alt = "vothuongtruongnhon2002@gmail.com"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="truongnhon" height="30"/></a>
-    </p>
+  <h2 align="center"> 📊 Github stats </h2>
+  <br>
   <p align="center">
-      <a href="" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="truongnhon" height="30"/></a>
-      <a href="" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="truongnhon" height="30"/></a>
-      <br>
-    </p>
-  </samp>
-</div>
-</details>
+    <a href="https://github.com/nhonvo/">
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nhonvo&show_icons=true&theme=gruvbox&hide_border=true" />
+      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nhonvo&theme=gruvbox&hide_border=true" />
+    </a>
+ 
+<style>
+  /* Add animation to the header */
+  .animated-header {
+    animation: slideInFromLeft 0.5s ease-in-out;
+  }
 
-
-<details>
-  <summary>🧮 about</summary>
-<div>
-<h2 align="center">🧮 About this Account</h2>
- <p align="center">
- The developer with one year of experience web and interested in data fields
- </p>
-</div>
-</details>
-
-<details>
-  <summary>🌏 global</summary>
-<div>
-<h2 align="center"> Wanna learn more something about me? </h2>
-</div>
-<a href ="https://drive.google.com/file/d/1Eop9CeP0BtbTLIWsHLY3gi7qfxAvA0Qf/view?usp=sharing">Check my resume!!!</a>
-</details>
-
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/truongnhon-hutech/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhonvo&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="nhonvo :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/nhonvo/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nhonvo&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nhonvo&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>    
-</details>
-
-
-<details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-  <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="truongnhon's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=nhonvo&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
-
-
-------
-
-Credit: [nhonvo](https://github.com/nhonvo)
-Last Edited on: 19/03/2023
+  /* Define the animation */
+  @keyframes slideInFromLeft {
+    0% {
+      transform: translateX(-100%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+</style>
