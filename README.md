@@ -48,24 +48,6 @@
   <img class="animated-icon" src="https://img.icons8.com/color/452/android-os.png" width="50"/>
 </div>
 
-<style>
-  /* Add animation to the icons */
-  .animated-icon {
-    animation: zoomIn 0.5s ease-in-out;
-  }
-
-  /* Define the animation */
-  @keyframes zoomIn {
-    0% {
-      transform: scale(0);
-      opacity: 0;
-    }
-    100% {
-      transform: scale(1);
-      opacity: 1;
-    }
-  }
-</style>
 
 ## 🔖&nbsp; Checkout my <a href="https://nhonvo.github.io/portfolio/assets/pdf/Võ%20Thương%20Trường%20Nhơn.pdf">Resume</a>.
 
@@ -80,21 +62,3 @@
       <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nhonvo&theme=gruvbox&hide_border=true" />
     </a>
  
-<style>
-  /* Add animation to the header */
-  .animated-header {
-    animation: slideInFromLeft 0.5s ease-in-out;
-  }
-
-  /* Define the animation */
-  @keyframes slideInFromLeft {
-    0% {
-      transform: translateX(-100%);
-      opacity: 0;
-    }
-    100% {
-      transform: translateX(0);
-      opacity: 1;
-    }
-  }
-</style>
