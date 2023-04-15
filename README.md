@@ -1,4 +1,4 @@
-<h1 class="animated-header" align="left"><b>Hi there, I'm Nhon Vo 🚀</b></h1>
+# Hi there, I'm Vo Thuong Truong Nhon 🚀
 
 <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
