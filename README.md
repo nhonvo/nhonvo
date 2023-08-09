@@ -42,10 +42,9 @@
 ## 🛠 Languages and Tools
 <div style="display: flex; justify-content: center;">
   <img class="animated-icon" src="https://img.icons8.com/color/452/c-sharp-logo.png" width="50"/>
+  <img class="animated-icon" src="https://img.icons8.com/color/452/typescript.png" width="50"/>
   <img class="animated-icon" src="https://img.icons8.com/color/452/python.png" width="50"/>
-  <img class="animated-icon" src="https://img.icons8.com/color/452/javascript.png" width="50"/>
   <img class="animated-icon" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" width="50"/>
-  <img class="animated-icon" src="https://img.icons8.com/color/452/android-os.png" width="50"/>
 </div>
 
 
