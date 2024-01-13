@@ -7,18 +7,14 @@
 ## About me 🏈
 
 <h5 align="center">
-  <a href="https://twitter.com/nhonvoQN">
-    <img src="https://img.shields.io/badge/-nhonvoQN-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
   <a href="https://www.linkedin.com/in/truongnhon/">
     <img src="https://img.shields.io/badge/-truongnhon-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.facebook.com/NhonVTT">
-    <img src="https://img.shields.io/badge/-NhonVTT-3B5998?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
-  <br>
   <a href="mailto:vothuongtruongnhon2002@gmail.com">
     <img src="https://img.shields.io/badge/vothuongtruongnhon2002%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://nhonvo.github.io/">
+    <img src="https://img.shields.io/badge/check%20my%20blog-%40nhonvo.github.io-orange?style=flat-square&logo=github&logoColor=white" alt="Blog">
   </a>
 </h5>
 
@@ -28,38 +24,28 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhonvo&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="nhonvo :: Top Langs" />
 </a>
 
-<br>
+🌱 Truong Nhon from Vietnam 🇻🇳
 
-🌱 My name is Truong Nhon, I come from Vietnam.
+🎂 Born on 31/10/2002
 
-🎂 31/10/2002
+👨‍💻 Backend Developer, C# enthusiast
 
-👉 I'm a backend developer, and I prefer C#.
+🚀 Love creating cool apps, passionate about open source
 
-<br>
-<br>
+💡 Tech enthusiast, always exploring new advancements
 
-## 🛠 Languages and Tools
-<div style="display: flex; justify-content: center;">
-  <img class="animated-icon" src="https://img.icons8.com/color/452/c-sharp-logo.png" width="50"/>
-  <img class="animated-icon" src="https://img.icons8.com/color/452/typescript.png" width="50"/>
-  <img class="animated-icon" src="https://img.icons8.com/color/452/python.png" width="50"/>
-  <img class="animated-icon" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" width="50"/>
-</div>
+🎬 Anime lover - One Piece, Jujutsu Kaisen fan
 
+🌐 Check my blog at [nhonvo.github.io](https://nhonvo.github.io/)
 
-## 🔖&nbsp; Checkout my <a href="https://nhonvo.github.io/portfolio/assets/pdf/Võ%20Thương%20Trường%20Nhơn.pdf">Resume</a>.
-
-<p align="center">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhonvo&theme=dracula" alt="snake">
-</p>
 <br>
 
 <div>
   <h2 align="center"> 📊 Github stats </h2>
   <br>
   <p align="center">
-    <a href="https://github.com/nhonvo/">
       <img width="47%" src="https://github-readme-stats.vercel.app/api?username=nhonvo&show_icons=true&theme=gruvbox&hide_border=true" />
       <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nhonvo&theme=gruvbox&hide_border=true" />
-    </a>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhonvo&theme=gruvbox" alt="snake">
+  </p>
+</div>
