@@ -24,17 +24,11 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhonvo&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="nhonvo :: Top Langs" />
 </a>
 
-🌱 Truong Nhon from Vietnam 🇻🇳
+🌱 Vietnam 🇻🇳
 
 🎂 Born on 31/10/2002
 
-👨‍💻 Backend Developer, C# enthusiast
-
-🚀 Love creating cool apps, passionate about open source
-
-💡 Tech enthusiast, always exploring new advancements
-
-🎬 Anime lover - One Piece, Jujutsu Kaisen fan
+👨‍💻 Backend Developer, C#
 
 🌐 Check my blog at [nhonvo.github.io](https://nhonvo.github.io/)
 
