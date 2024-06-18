@@ -8,13 +8,13 @@
 
 <h5 align="center">
   <a href="https://www.linkedin.com/in/truongnhon/">
-    <img src="https://img.shields.io/badge/-truongnhon-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:vothuongtruongnhon2002@gmail.com">
-    <img src="https://img.shields.io/badge/vothuongtruongnhon2002%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://nhonvo.github.io/">
-    <img src="https://img.shields.io/badge/check%20my%20blog-%40nhonvo.github.io-orange?style=flat-square&logo=github&logoColor=white" alt="Blog">
+    <img src="https://img.shields.io/badge/blog-black?style=flat-square&logo=bloglovin&logoColor=white" alt="Blog">
   </a>
 </h5>
 
