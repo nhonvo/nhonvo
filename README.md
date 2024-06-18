@@ -26,8 +26,6 @@
 
 🌱 Vietnam 🇻🇳
 
-🎂 Born on 31/10/2002
-
 👨‍💻 Backend Developer, C#
 
 🌐 Check my blog at [nhonvo.github.io](https://nhonvo.github.io/)
