@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://nhonvo.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio_%26_CV-nhonvo.github.io-6366f1?style=for-the-badge" alt="Portfolio & CV">
+    <img src="https://img.shields.io/badge/🌐_Web_Portfolio-nhonvo.github.io-6366f1?style=for-the-badge" alt="Web Portfolio">
+  </a>
+  <a href="https://nhonvo.github.io/cv.html">
+    <img src="https://img.shields.io/badge/📄_LaTeX_CV-Viewer_%26_Download-10b981?style=for-the-badge" alt="LaTeX CV">
   </a>
   <a href="https://learning-three-flax.vercel.app/">
     <img src="https://img.shields.io/badge/🧠_Knowledge_Garden-GraphMind-06b6d4?style=for-the-badge" alt="Knowledge Hub">
-  </a>
-  <a href="https://nhonvo-cv.onrender.com/">
-    <img src="https://img.shields.io/badge/📄_Live_PDF_CV-Render-10b981?style=for-the-badge" alt="Live CV">
   </a>
   <a href="https://www.linkedin.com/in/truongnhon/">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -35,7 +35,8 @@ Backend Software Engineer with experience architecting high-throughput microserv
 
 - 📍 **Location**: Ho Chi Minh City, Vietnam 🇻🇳
 - 💼 **Primary Focus**: .NET 8 / C#, AWS Architecture, Distributed Caching (Redis), Message Queues (RabbitMQ/SQS), PostgreSQL.
-- 🌐 **Showcase CV & Web Portfolio**: [nhonvo.github.io](https://nhonvo.github.io/)
+- 🌐 **Web Portfolio**: [nhonvo.github.io](https://nhonvo.github.io/)
+- 📄 **Official LaTeX CV**: [nhonvo.github.io/cv.html](https://nhonvo.github.io/cv.html) *(Executive 1-Page & Master LaTeX versions)*
 - 🧠 **Engineering Knowledge Hub & Digital Garden**: [learning-three-flax.vercel.app](https://learning-three-flax.vercel.app/) *(powered by Quartz)*
 - 📺 **Tech Channel**: [youtube.com/@nhonvo-dev](https://www.youtube.com/@nhonvo-dev)
 
